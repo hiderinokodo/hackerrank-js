@@ -1,1 +1,1 @@
-Here is the answer of Javascript Certify Test from Hackerrank
+Here is the answer of Javascript Certification Test from Hackerrank
